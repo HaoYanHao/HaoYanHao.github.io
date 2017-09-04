@@ -21,15 +21,15 @@
 - 访问学者  2014.09-2015.03   比利时布鲁塞尔自由大学，电子信息系  
 
 ### 研究方向与科研项目
-#### 研究兴趣主要在电子信息工程与生物纳米科学结合的交叉领域(偏信息工程):纳米网络中基于分子扩散的新通信机制研究、细胞动态三维成像、基于数字全息技术测量三维形貌和形变。  
+- 研究兴趣主要在电子信息工程与生物纳米科学结合的交叉领域(偏信息工程):纳米网络中基于分子扩散的新通信机制研究、细胞动态三维成像、基于数字全息技术测量三维形貌和形变。  
 - 科研项目：      
-2016-2020，国家重点研发计划课题，课题名称：散斑数字比较全息测量系统(项目批准号：2016YFF0200705)，220万，课题骨干。      
-2015-2017,  国家自然科学青年基金，项目名称：多CCD和多照明角并用提高数字全息三维成像性能的新孔径合成方法（项目批准号：61405111），25万元，负责人。      
-2013-2016, 上海交通大学科研启动基金，“数字全息三维成像方法中深度误差的研究”，10万元，负责人。      
-2009-2010, Singapore, National Research Fund, “A hand-held digital lensless microscope system for MEMS and micro-device inspection”, $230,000, Main Participant: System Adjustment and Experiment Testing.      
-2007-2012, Singapore, “Resolution in Digital Holography”, PhD Program： Improvement of the 3D resolution of digital holographic system.      
-2007-2010, Singapore, “Photo-biomechanics of single cell”, Main Participant：live cell imaging by digital holography, and analysis of the related information.      
-2007-2009, Singapore, “Biosensors for Clinical dental applications”, Main Participant：Dynamic 3D imaging of the animal tooth, and processing the 3D dynamic shape information. 
+1. 2016-2020，国家重点研发计划课题，课题名称：散斑数字比较全息测量系统(项目批准号：2016YFF0200705)，220万，课题骨干。      
+2. 2015-2017,  国家自然科学青年基金，项目名称：多CCD和多照明角并用提高数字全息三维成像性能的新孔径合成方法（项目批准号：61405111），25万元，负责人。      
+3. 2013-2016, 上海交通大学科研启动基金，“数字全息三维成像方法中深度误差的研究”，10万元，负责人。      
+4. 2009-2010, Singapore, National Research Fund, “A hand-held digital lensless microscope system for MEMS and micro-device inspection”, $230,000, Main Participant: System Adjustment and Experiment Testing.      
+5. 2007-2012, Singapore, “Resolution in Digital Holography”, PhD Program： Improvement of the 3D resolution of digital holographic system.      
+6. 2007-2010, Singapore, “Photo-biomechanics of single cell”, Main Participant：live cell imaging by digital holography, and analysis of the related information.      
+7. 2007-2009, Singapore, “Biosensors for Clinical dental applications”, Main Participant：Dynamic 3D imaging of the animal tooth, and processing the 3D dynamic shape information. 
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
