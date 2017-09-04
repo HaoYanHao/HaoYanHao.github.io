@@ -10,6 +10,12 @@ Office: Rm 733, Zhi Xin Building, 4800 Cao'an Highway, Shanghai 201804, China
 - M.S. - Tianjin University, China, 2007
 - Ph.D - Nanyang Technological University, Singapore, 2012
 
+### 项目信息
+
+- 国家自然科学基金
+- M.S. - Tianjin University, China, 2007
+- Ph.D - Nanyang Technological University, Singapore, 2012
+
 ### Selected Publications
 
 - L. Lin, F. Li, M. Ma, H. Yan, “Synchronization of Bio-Nanomachines Based on Molecular Diffusion”, IEEE Sensors Journal, 2016, published online (SCI IF = 1.889)
