@@ -29,10 +29,10 @@
 1. 2016-2020，国家重点研发计划课题，课题名称：散斑数字比较全息测量系统(项目批准号：2016YFF0200705)，220万，课题骨干。 
 2. 2015-2017,  国家自然科学青年基金，项目名称：多CCD和多照明角并用提高数字全息三维成像性能的新孔径合成方法（项目批准号：61405111），25万元，负责人。     
 3. 2013-2016, 上海交通大学科研启动基金，“数字全息三维成像方法中深度误差的研究”，10万元，负责人。  
-4. 2009-2010, Singapore, National Research Fund, “A hand-held digital lensless microscope system for MEMS and micro-device inspection”, $230,000, Main Participant: System Adjustment and Experiment Testing.      
-5. 2007-2012, Singapore, “Resolution in Digital Holography”, PhD Program： Improvement of the 3D resolution of digital holographic system.      
-6. 2007-2010, Singapore, “Photo-biomechanics of single cell”, Main Participant：live cell imaging by digital holography, and analysis of the related information.      
-7. 2007-2009, Singapore, “Biosensors for Clinical dental applications”, Main Participant：Dynamic 3D imaging of the animal tooth, and processing the 3D dynamic shape information. 
+4. 2009-2010, Singapore, National Research Fund, “A hand-held digital lensless microscope system for MEMS and micro-device inspection”, $230,000, Main Participant: System Adjustment and Experiment Testing.
+5. 2007-2012, Singapore, “Resolution in Digital Holography”, PhD Program： Improvement of the 3D resolution of digital holographic system.
+6. 2007-2010, Singapore, “Photo-biomechanics of single cell”, Main Participant：live cell imaging by digital holography, and analysis of the related information.
+7. 2007-2009, Singapore, “Biosensors for Clinical dental applications”, Main Participant：Dynamic 3D imaging of the animal tooth, and processing the 3D dynamic shape information.
 
 ### 发表论文
 - 第一作者和通信作者的SCI论文:
