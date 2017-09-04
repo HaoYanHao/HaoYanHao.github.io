@@ -60,13 +60,13 @@
 9. **Hao Yan***, Anand Asundi, “Comparison of Digital Holographic Microscope and Confocal Microscope methods for characterization of micro-optical diffractive components”, Proceedings of SPIE, Vol. 7155, Pages: B1550-B1550, 2008.
 10. **Hao Yan***, Anand Asundi, “Calibration of Pizeo Rotation Nanopositioning Stage by Digital Holographic System”, Physics Procedia 19, 169-172 (2011).
 
-### 教学与学生培养     
-- 教学：  
+### 教学与学生培养
+- 教学：
 1. 课程名称：显微镜大世界，本科生课程，上海交通大学
 2. 课程名称：高级数字信号处理，研究生课程，上海交通大学 
 
 - 学生培养：
-- 博士研究生： 
+- 博士研究生:
 1. **Stijn Bettens**, 课题：数字全息，比利时布鲁塞尔自由大学，2014-至今，与Prof. Peter Schelkens合作指导
 - 硕士研究生： 
 1. **颜发才**，课题：数字全息，上海交通大学，2013-2015，与赵辉教授合作指导  
