@@ -1,5 +1,5 @@
 ## Yan Hao
-## Assistant Professor, Shanghai Jiao Tong University, China
+### Assistant Professor, Shanghai Jiao Tong University, China
 
 Email: yan_hao@sjtu.edu.cn
 
