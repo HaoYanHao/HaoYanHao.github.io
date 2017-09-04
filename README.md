@@ -32,6 +32,33 @@
 7. 2007-2009, Singapore, “Biosensors for Clinical dental applications”, Main Participant：Dynamic 3D imaging of the animal tooth, and processing the 3D dynamic shape information. 
 
 
+### 发表论文
+
+### 发表论文
+- 第一作者和通信作者的SCI论文
+1. Ge Chang, Lin L, Hao Yan*. “Adaptive Detection and ISI Mitigation for Mobile Molecular Communication”, IEEE TRANSACTIONS ON NANOBIOSCIENCE, 2017. (本科生一作 in minor revision). 
+2. Stijn Bettens, Hao Yan*, et al. "Studies on the sparsifying operator in compressive digital holography", Optics Express, Vol. 25, Issue 16, pp. 18656-18676, 2017. (博士生一作)
+3. Lin L, Li F, Ma M, Hao Yan*. “Oscillation of Nanomachines Based on Molecular Diffusion With Noises”, IEEE Sensors Journal, 17(11): 3559-3567, 2017.
+4. Lin L Zhang J, Ma M, Hao Yan*. "Time synchronization for molecular communication with drift.", IEEE Communications Letters, 21(3) 476-479, 2017.
+5. Lin, Lin, C Yang, M Ma, Hao Yan*. "A clock synchronization method for molecular nanomachines in bionanosensor networks.", IEEE Sensors Journal, 16(19): 7194-7203, 2016.
+6. Yan Hao*, Chang Ge, Sun Tianhao, Xu Yingzhan, Ma Zhongke, Zhou Tao.  “Molecular Communication in Nanonetworks. Nano Biomedicine and Engineering”, Vol.8, Issue 4, pp. 274-287, 2016.
+7. Facai Yan, Hao Yan*,Yingjie Yu,Wenjing Zhou,Anand Asundic. "The suppression of phase error by applying window functions to digital holography." Optics and Lasers in Engineering, Vol. 86: pp: 206-215, (2016).  (研究生一作)
+8. Hao Yan, Bing Pan, “Three-dimensional displacement measurement based on the combination of digital holography and digital image correlation”, Optics Letters, Vol. 39 Iss. 17 (2014). (IF：3.385, SCI&EI)
+9. Hao Yan*, Anand Asundi, “Impact of charge-coupled device size on axial measurement error in digital holographic system”, Optics Letters, Vol. 38, Iss. 8, pp. 1194–1196 (2013). (IF：3.385, SCI&EI)
+10. Hao Yan*, Anand Asundi, “Studies on aperture synthesis in digital Fresnel holography”. Optics and Lasers in Engineering, Vol. 50, Iss. 4, pp. 556–562 (2012). (IF：1.916, SCI&EI)
+11. Hao Yan*, Anand Asundi, “Resolution analysis of a digital holography system”, APPLIED OPTICS, Vol. 50, Iss. 2, pp. 183–193 (2011). (IF：1.748, SCI&EI)
+
+- 其他学术论文：
+1. Xinye Fu, Chao Zuo, Hao Yan*, “Multimodal Quantitative Phase and Fluorescence Imaging of Cell Apoptosis”,  In: Fifth International Conference on Optical and Photonics Engineering. International Society for Optics and Photonics,  p. 1044920-1044920-6, 2017.
+2. Yongfu Wen, Weijuan Qu, Haobo Cheng, Hao Yan, and A. Asundi , “Further investigation on the phase stitching and system errors in digital holography”, Applied Optics, Vol. 54, Issue 2, pp. 266-276 (2015). 
+3. Hao Yan, David Blinder, Stijn Bettens, Heidi Ottevaere, Adrian Munteanu and Peter Schelkens, “CDF 9/7 Wavelets as Sparsifying Operator in Compressive Holography”, The International Conference on Image Processing (ICIP) 2015.
+4. Stijn Bettens, Hao Yan, Shaun Bundervoet, Colas Schretter, Ann Dooms, and Peter Schelkens, “Reconstruction Resilience to Subsampling in Compressive Fresnel Holography”, Digital Holography & 3-D Imaging meeting, 2015.
+5. Facai Yan, Hao Yan*, and Anand Asundi, “The Phase Error Reduction Using Window Functions in Digital Holography”, Proc. SPIE 9449, The International Conference on Photonics and Optical Engineering (icPOE 2014), 94490O (February 20, 2015).
+6. Hao Yan, Chao Ping Chen, Yikai Su, "Influence of Space Variant Effect on Axial Error in Digital Holography," in Proc. Society for Information Display, 2014, 46.4.
+7. Hao Yan*, Anand Asundi, "Resolution Analysis of In-line Digital Holography" in OSA Technical Digest (CD) (Optical Society of America, 2011), CWB4.
+8. Hao Yan*, Ailing Tian, Anand Asundi, “Challenges of Digital Holography in Micro-optical Measurement”, Proceedings of SPIE, Vol. 7522, 2010.
+9. Hao Yan*, Anand Asundi, “Comparison of Digital Holographic Microscope and Confocal Microscope methods for characterization of micro-optical diffractive components”, Proceedings of SPIE, Vol. 7155, Pages: B1550-B1550, 2008.
+10. Hao Yan*, Anand Asundi, “Calibration of Pizeo Rotation Nanopositioning Stage by Digital Holographic System”, Physics Procedia 19, 169-172 (2011).
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
