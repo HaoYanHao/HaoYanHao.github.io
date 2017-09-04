@@ -2,6 +2,7 @@
 ## Yan Hao 闫浩
 
 ### Assistant Professor, Shanghai Jiao Tong University, China
+- 硕士生导师
 - Email: yan_hao@sjtu.edu.cn
 - 上海交通大学 电信学院 仪器系 2-337
 
@@ -34,7 +35,7 @@
 
 ### 发表论文
 - 第一作者和通信作者的SCI论文:
-1. Ge Chang, Lin L, Hao Yan*. “Adaptive Detection and ISI Mitigation for Mobile Molecular Communication”, IEEE TRANSACTIONS ON NANOBIOSCIENCE, 2017. (本科生一作 in minor revision). 
+1. Ge Chang, Lin L, *Hao Yan**. “Adaptive Detection and ISI Mitigation for Mobile Molecular Communication”, IEEE TRANSACTIONS ON NANOBIOSCIENCE, 2017. (本科生一作 in minor revision). 
 2. Stijn Bettens, Hao Yan*, et al. "Studies on the sparsifying operator in compressive digital holography", Optics Express, Vol. 25, Issue 16, pp. 18656-18676, 2017. (博士生一作)
 3. Lin L, Li F, Ma M, Hao Yan*. “Oscillation of Nanomachines Based on Molecular Diffusion With Noises”, IEEE Sensors Journal, 17(11): 3559-3567, 2017.
 4. Lin L Zhang J, Ma M, Hao Yan*. "Time synchronization for molecular communication with drift.", IEEE Communications Letters, 21(3) 476-479, 2017.
