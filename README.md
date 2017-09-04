@@ -1,6 +1,7 @@
-## Yan Hao's Homepages
+## Yan Hao
+## Assistant Professor, Shanghai Jiao Tong University, China
 
-Email: fxlinlin@tongji.edu.cn
+Email: yan_hao@sjtu.edu.cn
 
 Office: Rm 733, Zhi Xin Building, 4800 Cao'an Highway, Shanghai 201804, China
 
