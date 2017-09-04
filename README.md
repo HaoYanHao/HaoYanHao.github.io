@@ -31,11 +31,8 @@
 6. 2007-2010, Singapore, “Photo-biomechanics of single cell”, Main Participant：live cell imaging by digital holography, and analysis of the related information.      
 7. 2007-2009, Singapore, “Biosensors for Clinical dental applications”, Main Participant：Dynamic 3D imaging of the animal tooth, and processing the 3D dynamic shape information. 
 
-
 ### 发表论文
-
-### 发表论文
-- 第一作者和通信作者的SCI论文
+- 第一作者和通信作者的SCI论文:
 1. Ge Chang, Lin L, Hao Yan*. “Adaptive Detection and ISI Mitigation for Mobile Molecular Communication”, IEEE TRANSACTIONS ON NANOBIOSCIENCE, 2017. (本科生一作 in minor revision). 
 2. Stijn Bettens, Hao Yan*, et al. "Studies on the sparsifying operator in compressive digital holography", Optics Express, Vol. 25, Issue 16, pp. 18656-18676, 2017. (博士生一作)
 3. Lin L, Li F, Ma M, Hao Yan*. “Oscillation of Nanomachines Based on Molecular Diffusion With Noises”, IEEE Sensors Journal, 17(11): 3559-3567, 2017.
@@ -60,6 +57,31 @@
 9. Hao Yan*, Anand Asundi, “Comparison of Digital Holographic Microscope and Confocal Microscope methods for characterization of micro-optical diffractive components”, Proceedings of SPIE, Vol. 7155, Pages: B1550-B1550, 2008.
 10. Hao Yan*, Anand Asundi, “Calibration of Pizeo Rotation Nanopositioning Stage by Digital Holographic System”, Physics Procedia 19, 169-172 (2011).
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+### 教学与学生培养     
+- 教学：
+1. 课程名称：显微镜大世界，本科生课程，上海交通大学
+2. 课程名称：高级数字信号处理，研究生课程，上海交通大学 
+
+- 学生培养：
+- 博士研究生： 
+1. Stijn Bettens, 课题：数字全息，比利时布鲁塞尔自由大学，2014-至今，与Prof. Peter Schelkens合作指导
+- 硕士研究生： 
+1. 颜发才，课题：数字全息，上海交通大学，2013-2015，与赵辉教授合作指导  
+2. 王婷婷，课题：数字全息，上海交通大学，2016-至今，与蔡萍教授合作指导  
+3. 李鹏飞，课题：数字全息，上海交通大学，2016-至今，与蔡萍教授合作指导
+- 本科生：  
+1. 常歌，课题：分子通信，上海交通大学，2016-2017.07，独立指导。获得2017年上海交通大学优异学士论文（top1% 全英文毕设论文和答辩+2篇SCI一作论文），赴美国UCSD大学攻读硕士。  
+2. 游讴韩，课题：数字全息，上海交通大学，2016-2017.07，独立指导。获得2017年上海交通大学电信学院优秀学士论文，赴美国哥伦比亚大学攻读硕士。  
+3. 马钟柯，课题：分子通信，上海交通大学，2016-至今，独立指导。  
+4. 虞子傲，课题：分子通信，上海交通大学，2016-至今，独立指导。  
+5. 李昱颖，课题：分子通信，上海交通大学，2016-至今，独立指导。  
+6. 傅馨叶，课题：数字全息，上海交通大学，2016-至今，独立指导。
+
+### 学术活动     
+- 主要学术兼职有国际电气和电子工程师协会(IEEE)会员、国际光学工程学会协会(SPIE)会员、Optics Express、Optics Letters、Applied Optics、Optics and Lasers in Engineering等国际期刊的审稿人。     
+- 积极参与各种国际学术组织（IEEE、SPIE、OSA）和国际会议， 2017年受邀在国际应用光学与光子学技术交流会(AOPC)做邀请报告。
+
 
 ```markdown
 Syntax highlighted code block
