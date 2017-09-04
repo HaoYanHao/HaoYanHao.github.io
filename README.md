@@ -81,6 +81,6 @@
 6. **傅馨叶**，课题：数字全息，上海交通大学，2016-至今，独立指导。
 
 ### 学术活动
-- 主要学术兼职有国际电气和电子工程师协会(IEEE)会员、国际光学工程学会协会(SPIE)会员、Optics Express、Optics Letters、Applied Optics、Optics and Lasers in Engineering等国际期刊的审稿人。     
+- 主要学术兼职有国际电气和电子工程师协会(IEEE)会员、国际光学工程学会协会(SPIE)会员、Optics Express、Optics Letters、Applied Optics、Optics and Lasers in Engineering等国际期刊的审稿人。
 - 积极参与各种国际学术组织（IEEE、SPIE、OSA）和国际会议， 2017年受邀在国际应用光学与光子学技术交流会(AOPC)做邀请报告。
 
