@@ -1,14 +1,5 @@
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <meta name="description" content="Lin Lin&#39;s homepage : ">
-
-    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
-
-    <title>Lin Lin&#39;s homepage</title>
-  </head>
   
-  ## Yan Hao's Homeages
+  ## Yan Hao's Homepages
 
 test You can use the [editor on GitHub](https://github.com/HaoYanHao/HaoYanHao.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
