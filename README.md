@@ -59,7 +59,7 @@
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ### 教学与学生培养     
-- 教学：
+- 教学：  
 1. 课程名称：显微镜大世界，本科生课程，上海交通大学
 2. 课程名称：高级数字信号处理，研究生课程，上海交通大学 
 
