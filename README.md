@@ -1,10 +1,14 @@
 ## Yan Hao's Homepages
 
-test You can use the [editor on GitHub](https://github.com/HaoYanHao/HaoYanHao.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Email: fxlinlin@tongji.edu.cn
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Office: Rm 733, Zhi Xin Building, 4800 Cao'an Highway, Shanghai 201804, China
 
-### Markdown
+### Education
+
+- B.S. - Tianjin University, China, 2004
+- M.S. - Tianjin University, China, 2007
+- Ph.D - Nanyang Technological University, Singapore, 2012
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
