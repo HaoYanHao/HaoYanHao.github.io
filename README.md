@@ -10,6 +10,12 @@ Office: Rm 733, Zhi Xin Building, 4800 Cao'an Highway, Shanghai 201804, China
 - M.S. - Tianjin University, China, 2007
 - Ph.D - Nanyang Technological University, Singapore, 2012
 
+### Selected Publications
+
+- L. Lin, F. Li, M. Ma, H. Yan, “Synchronization of Bio-Nanomachines Based on Molecular Diffusion”, IEEE Sensors Journal, 2016, published online (SCI IF = 1.889)
+- L. Lin, C. Yang, M. Ma, S. Ma, H. Yan, “A Clock Synchronization Method for Molecular Nanomachines in Bionanosensor networks”, IEEE Sensors Journal, 2016, published online (SCI IF = 1.889)
+
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
