@@ -1,4 +1,4 @@
-![GitHub Logo](/闫浩照片.jpg)
+![GitHub Logo](/闫浩照片小.jpg)
 ## Yan Hao 闫浩
 
 ### Assistant Professor, Shanghai Jiao Tong University, China
