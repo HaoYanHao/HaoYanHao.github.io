@@ -1,8 +1,9 @@
 ![GitHub Logo](/闫浩照片小.jpg)
 ## Yan Hao 闫浩
+- 随时欢迎有志于出国深造或对科研感兴趣的本科生和研究生加入本团队
 
 ### Assistant Professor, Shanghai Jiao Tong University, China
-- 硕士生导师
+- 硕士生导师，
 - Email: yan_hao@sjtu.edu.cn
 - 上海交通大学 电信学院 仪器系 2-337
 
@@ -10,7 +11,7 @@
 - 主要研究方向:纳米网络分子通信、活细胞动态三维成像、数字全息三维形貌形变测量。 
 - 在IEEE Trans、Optics Express、Optics Letters 等国际知名期刊发表论文20余篇。 
 - 主持国家自然基金，并作为项目骨干参与国家重点研发计划。 
-- 指导本科学生获得2017年上海交通大学优异学士学位论文（top 1%）(全英文毕业论文和答辩+两篇SCI论文）。 
+- 指导本科学生获得2017年上海交通大学优异学士学位论文（top 1%）(全英文毕业论文和答辩+两篇SCI一作论文）。 
 - 积极参与各种国际学术组织和国际会议， 2017年受邀在国际应用光学与光子学技术交流会(AOPC)做邀请报告。
 
 ### 教育背景
@@ -83,31 +84,3 @@
 - 主要学术兼职有国际电气和电子工程师协会(IEEE)会员、国际光学工程学会协会(SPIE)会员、Optics Express、Optics Letters、Applied Optics、Optics and Lasers in Engineering等国际期刊的审稿人。     
 - 积极参与各种国际学术组织（IEEE、SPIE、OSA）和国际会议， 2017年受邀在国际应用光学与光子学技术交流会(AOPC)做邀请报告。
 
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HaoYanHao/HaoYanHao.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
