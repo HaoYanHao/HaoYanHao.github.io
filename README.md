@@ -3,7 +3,7 @@
 - 随时欢迎有志于出国深造或对科研感兴趣的本科生和研究生加入本团队
 
 ### Assistant Professor, Shanghai Jiao Tong University, China
-- 硕士生导师，
+- 硕士生导师
 - Email: yan_hao@sjtu.edu.cn
 - 上海交通大学 电信学院 仪器系 2-337
 
@@ -15,9 +15,9 @@
 - 积极参与各种国际学术组织和国际会议， 2017年受邀在国际应用光学与光子学技术交流会(AOPC)做邀请报告。
 
 ### 教育背景
-- Ph.D    2012        Nanyang Technological University (Singapore), Engineering  
+- Ph.D    2012     Nanyang Technological University (Singapore), Engineering  
 - 硕士    2007     天津大学，电子信息学院，通信工程    
-- 本科    2005 天津大学，电子信息学院，通信工程
+- 本科    2005     天津大学，电子信息学院，通信工程
 
 ### 工作经历  
 - 讲师      2013.08-至今      上海交通大学，电子信息与电气工程学院   
