@@ -1,4 +1,4 @@
-## Yan Hao
+## Yan Hao 闫浩
 
 ### Assistant Professor, Shanghai Jiao Tong University, China
 - Email: yan_hao@sjtu.edu.cn
@@ -20,16 +20,16 @@
 - 讲师      2013.08-至今      上海交通大学，电子信息与电气工程学院   
 - 访问学者  2014.09-2015.03   比利时布鲁塞尔自由大学，电子信息系  
 
-### 项目信息
-
-- 国家自然科学基金
-- M.S. - Tianjin University, China, 2007
-- Ph.D - Nanyang Technological University, Singapore, 2012
-
-### Selected Publications
-
-- L. Lin, F. Li, M. Ma, H. Yan, “Synchronization of Bio-Nanomachines Based on Molecular Diffusion”, IEEE Sensors Journal, 2016, published online (SCI IF = 1.889)
-- L. Lin, C. Yang, M. Ma, S. Ma, H. Yan, “A Clock Synchronization Method for Molecular Nanomachines in Bionanosensor networks”, IEEE Sensors Journal, 2016, published online (SCI IF = 1.889)
+### 研究方向与科研项目
+- 研究兴趣主要在电子信息工程与生物纳米科学结合的交叉领域(偏信息工程):纳米网络中基于分子扩散的新通信机制研究、细胞动态三维成像、基于数字全息技术测量三维形貌和形变。  
+- 科研项目：      
+2016-2020，国家重点研发计划课题，课题名称：散斑数字比较全息测量系统(项目批准号：2016YFF0200705)，220万，课题骨干。      
+2015-2017,  国家自然科学青年基金，项目名称：多CCD和多照明角并用提高数字全息三维成像性能的新孔径合成方法（项目批准号：61405111），25万元，负责人。      
+2013-2016, 上海交通大学科研启动基金，“数字全息三维成像方法中深度误差的研究”，10万元，负责人。      
+2009-2010, Singapore, National Research Fund, “A hand-held digital lensless microscope system for MEMS and micro-device inspection”, $230,000, Main Participant: System Adjustment and Experiment Testing.      
+2007-2012, Singapore, “Resolution in Digital Holography”, PhD Program： Improvement of the 3D resolution of digital holographic system.      
+2007-2010, Singapore, “Photo-biomechanics of single cell”, Main Participant：live cell imaging by digital holography, and analysis of the related information.      
+2007-2009, Singapore, “Biosensors for Clinical dental applications”, Main Participant：Dynamic 3D imaging of the animal tooth, and processing the 3D dynamic shape information. 
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
