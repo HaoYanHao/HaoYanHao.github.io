@@ -15,8 +15,8 @@
 - 积极参与各种国际学术组织和国际会议， 2017年受邀在国际应用光学与光子学技术交流会(AOPC)做邀请报告。
 
 ### 教育背景
-- Ph.D    2012     Nanyang Technological University (Singapore), Engineering  
-- 硕士    2007     天津大学，电子信息学院，通信工程    
+- Ph.D    2012     Nanyang Technological University (Singapore), Engineering.
+- 硕士    2007     天津大学，电子信息学院，通信工程
 - 本科    2005     天津大学，电子信息学院，通信工程
 
 ### 工作经历  
